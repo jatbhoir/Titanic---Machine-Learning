@@ -1,4 +1,4 @@
-# Titanic: Machine-Learning from Disaste
+# Titanic: Machine-Learning from Disaster
 ---
 
 1. Source: [Titanic-Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data).
